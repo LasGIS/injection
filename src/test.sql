@@ -1,1 +1,1 @@
-select * from dual
+SELECT BFILENAME('AAA...A', 'test.jpg') FROM DUAL;
