@@ -1,1 +1,1 @@
-SELECT BFILENAME('AAA...A', 'test.jpg') FROM DUAL;
+SELECT * FROM users WHERE password LIKE '%'
