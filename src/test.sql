@@ -1,1 +1,1 @@
-UNION SELECT username, password FROM users-- 
+SELECT * FROM users WHERE login='admin' -- AND password = '...'
