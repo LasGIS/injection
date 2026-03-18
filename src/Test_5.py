@@ -1,11 +1,5 @@
 def
-5105 1051 0510 5100
-GB33BUKB20201555555555
-40817810099910004321
-10.0.0.1
-172.16.0.1
-192.168.1.100
-printer-office.local
-vpn.corp
-123e4567-e89b-12d3-a456-426614174000
-YXBwbGVjb3VudG51c2VyaWQ9MTIzNDU2Nzg5MCZleHBpcnk9MjAyNC0wMS0wMVQxMjozMDowMFomc2lnbmF0dXJlPUxMT1dEQVRBU1RSSU5HRklMRUQ=
+SELECT sleep(5)--
+SELECT * FROM users WHERE password LIKE '%'
+<?xml version="1.0"?> <!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]> &xxe;
+<script>alert(document.cookie)</script>
